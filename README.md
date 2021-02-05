@@ -1,4 +1,2 @@
 # hello_world
-Yeah I'm just trying
-
-this is cool
+This is my CV
